@@ -32,3 +32,11 @@
 
 ##Tecnología
 ###Pasos a seguir
+
+* Arreglar todos los diagramas de la primer y segunda iteración
+* Cumplimentar los anexos ya hechos.
+* Agregar anexos que faltan.
+* Iteracion nueva con todos los pasos.
+* Qliksense con datos obtenidos de los pedidos (coordenadas geográficas)
+* Mejorar la parte de estadisticas (reales?)
+* Landing page con marketing electrónico y sustentable.
