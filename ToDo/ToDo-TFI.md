@@ -2,7 +2,11 @@
 ##Negocio
 ###Pasos a seguir
 
-* Punto 6
+* Resumen ejecutivo - cambiar los valores de los indicadores
+
+* Punto 6 - Introducción general. Qué es el mk, como va a servir para la empresa, frase, ciclo de vida del producto (gráfica). Evolucion de los mercados, el marketing a nivel mundial.
+* Punto 6.1 -Objetivos. Lo que buscamos de los Negocios, usuarios y nuestra meta como empresa. Se pueden establecer los objetivos temporalmente (Por semestre)
+* Punto 6.2 - 
 
 * Punto 7.1 - expandir comunicacion, toma de desiciones, solucion de conflictos.
 * Punto 7.2 - describir el perfil profesional del grupo fundador.
